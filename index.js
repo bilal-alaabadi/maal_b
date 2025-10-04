@@ -13,7 +13,7 @@ app.use(cookieParser());
 
 // ضع كل الدومينات المسموح بها هنا
 const allowedOrigins = [
-  "https://maal-f.vercel.app",
+  "https://maa-alward.com",
   // للتطوير المحلي (اختياري):
   "http://localhost:5173",
   "http://localhost:3000",
